@@ -15,7 +15,7 @@ module.exports = {
 
         for await(const product of products)
         {
-            console.log(product.id);
+            // console.log(product.id);
             console.log(addressShipping);
         }
         
